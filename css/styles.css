@@ -1,0 +1,2474 @@
+.donut {
+    position: relative;
+}
+
+@media screen and (min-width: 1015px) {
+    .donut {
+        background-position: center center!important;
+        background-repeat: no-repeat;
+        padding: 50px 5px!important;
+        font-size: 2em!important;
+    }
+    .donut0 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut0.png");
+    }
+    .donut1 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut1.png");
+    }
+    .donut2 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut2.png");
+    }
+    .donut3 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut3.png");
+    }
+    .donut4 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut4.png");
+    }
+    .donut5 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut5.png");
+    }
+    .donut6 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut6.png");
+    }
+    .donut7 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut7.png");
+    }
+    .donut8 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut8.png");
+    }
+    .donut9 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut9.png");
+    }
+    .donut10 {
+        background-image: url("https://images.mobilephonechecker.co.uk/donuts/donut10.png");
+    }
+}
+
+td.cell-02,
+td.cell-05 {
+    position: relative;
+}
+
+.refurbholder {
+    padding-top: 5px;
+    clear: both;
+}
+
+.refurb {
+    background-color: #387ede;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    margin-top: 1em;
+}
+
+.fourgholder {
+    padding-top: 5px;
+    clear: both;
+}
+
+.fourg {
+    background-color: #387ede;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    margin-top: 1em;
+}
+
+.fourgnew {
+    top: 0;
+    right: 0;
+    background-color: #74CB45!important;
+}
+
+@media screen and (min-width: 1015px) {
+    .fourgnew {
+        position: absolute;
+    }
+}
+
+.fourg2 {
+    background-color: #387ede;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    margin-top: 1em;
+    display: block;
+    font: 0.5em/1.545em "Exo 2", sans-serif;
+}
+
+#pageNumbers {
+    display: none;
+}
+
+.iphone li {
+    width: 200px!important;
+    text-align: center;
+    margin: 10px!important;
+    padding: 0!important;
+}
+
+@media screen and (max-width: 1015px) {
+    .iphone li {
+        width: 100%!important;
+    }
+}
+
+.iphone h3 {
+    min-height: 0!important;
+    color: black!important;
+    margin: 0 0 13px!important;
+}
+
+.iphone h3 a {
+    background-color: #387ede;
+    border-radius: 7px;
+    color: white!important;
+    padding: 5px;
+}
+
+.iphone img {
+    margin-bottom: 20px;
+}
+
+.payghandset {
+    margin-left: 116px!important
+}
+
+.info-form-mobilebroadband {
+    margin-left: 30px!important
+}
+
+.mobilebroadband-advanced {
+    margin-left: 270px!important
+}
+
+.info-form-datasims {
+    margin-left: 330px!important;
+}
+
+.bottomtext {
+    clear: both;
+    margin-left: 24px;
+    padding-top: 5px;
+    font-size: 1.1em;
+    line-height: normal;
+    color: #555;
+}
+
+tr.tablegreen td {
+    border-bottom-width: 0;
+}
+
+tr.green-bottom td {
+    border-bottom-width: 0;
+}
+
+#background-takeover {
+    background-color: black;
+    background-image: url("/giffgaff_banner.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: inline;
+    height: 1024px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.more-info a,
+.more-info-block a {
+    color: #74cb45;
+}
+
+.no-padding td {
+    padding: 10px 5px!important;
+}
+
+.tooltip {
+    background-color: white;
+    border: 1px solid #74cb45;
+    border-radius: 50%;
+    color: #74cb45;
+    display: inline-block;
+    text-decoration: none!important;
+    width: 1em;
+    margin-left: 0.2em;
+    text-align: center;
+}
+
+.tooltipreset {
+    background-color: transparent;
+    border: 0;
+    border-radius: auto;
+    color: #387EDE;
+    display: block!important;
+    text-decoration: none!important;
+    width: auto;
+    margin-left: 0;
+}
+
+.alignleft {
+    float: left;
+    padding-right: 10px;
+}
+
+.alignright {
+    float: right;
+    padding-left: 10px;
+}
+
+.clearance {
+    background-color: #008000;
+    color: #FFFFFF;
+    display: block;
+    margin-left: 28px;
+    margin-top: 18px;
+    padding: 0 5px;
+    position: absolute;
+}
+
+.dongle {
+    background-color: #7d25b0;
+    color: #FFFFFF;
+    display: block;
+    margin-left: 4px;
+    margin-top: 10px;
+    padding: 0 5px;
+    position: absolute;
+}
+
+.hotspot {
+    background-color: #a7192d;
+    color: #FFFFFF;
+    display: block;
+    margin-left: 4px;
+    margin-top: 10px;
+    padding: 0 5px;
+    position: absolute;
+}
+
+.phonename {
+    color: #000000;
+    margin-left: 4px;
+    margin-top: -16px;
+    position: absolute;
+    text-transform: none!important;
+    font-weight: normal!important;
+}
+
+.hukd-share-button {
+    margin-left: 18px;
+    margin-bottom: -2px;
+}
+
+.twitter-share-button {
+    margin: 0 15px;
+}
+
+#social {
+    text-align: right;
+}
+
+#social span.share {
+    color: white;
+    font-size: 1.282em;
+    position: relative;
+    top: -6px;
+}
+
+#social span.share a {
+    color: white;
+    text-decoration: underline;
+}
+
+.see-deals-now {
+    display: block;
+    width: 100px;
+    text-align: center;
+    background-color: #74CB45;
+    color: white;
+    text-shadow: 0;
+    border-radius: 5px;
+    font-size: 0.782em;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+
+.customForm-hidden {
+    display: block!important;
+    position: absolute!important;
+    left: -9999px!important;
+}
+
+.chk-area {
+    margin: 3px 5px 0 0;
+    float: left;
+    overflow: hidden;
+    height: 13px;
+    width: 13px;
+}
+
+.chk-area span {
+    width: 14px;
+    height: 14px;
+    padding-left: 1px;
+}
+
+.chk-area span:before {
+    content: "\f10c";
+    font-size: 14px!important;
+    color: white;
+    cursor: pointer;
+    -moz-font-feature-settings: normal;
+    -moz-font-language-override: normal;
+    display: inline-block;
+    font-family: FontAwesome;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-rendering: auto;
+}
+
+.chk-checked span {}
+
+.chk-checked span:before {
+    content: "\f058";
+}
+
+.select-area {
+    float: left;
+    position: relative;
+    overflow: hidden;
+    height: 33px;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.select-area .select-opener {
+    background: url(https://images2.mobilephonechecker.co.uk/images/ico-05.png) no-repeat 11px 15px;
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    width: 31px;
+    height: 33px;
+}
+
+.select-area .left {
+    position: absolute;
+    width: 10px;
+    height: 31px;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+
+.select-area .center {
+    white-space: nowrap;
+    position: relative;
+    cursor: default;
+    display: block;
+    padding: 7px 9px 8px;
+    z-index: 2;
+    background: #fff;
+    border-radius: 4px;
+    color: #555;
+    cursor: pointer;
+}
+
+.select-area .center img {
+    margin: 5px 5px 0 0;
+    position: relative;
+    float: left;
+}
+
+.options-overflow div.drop-list {
+    overflow: auto;
+}
+
+.options-hidden {
+    position: absolute!important;
+    top: -9999px!important;
+    left: -9999px!important;
+}
+
+.select-options {
+    z-index: 3000;
+    position: absolute;
+}
+
+.select-options .drop-holder {
+    background: #fff;
+    border-radius: 4px;
+    height: 1%;
+    font-size: 1.6em;
+    line-height: 1.125em;
+    padding: 5px 0;
+    margin: 5px 0 0;
+}
+
+.select-options-flipped .drop-holder {
+    border-width: 2px 2px 0;
+}
+
+.select-options div.drop-list {
+    width: 100%;
+}
+
+.select-options ul {
+    overflow: hidden;
+    list-style: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.select-options ul li {
+    overflow: hidden;
+    float: left;
+    width: 100%;
+}
+
+.select-options ul a {
+    text-decoration: none;
+    cursor: default;
+    color: #555;
+    display: block;
+    overflow: hidden;
+    height: 1%;
+    padding: 5px;
+}
+
+.select-options ul a span {
+    cursor: default;
+    float: left;
+}
+
+.select-options .item-selected a {
+    text-decoration: none;
+    background: #666;
+    color: #fff;
+}
+
+.select-options ul a:hover {
+    text-decoration: none;
+}
+
+.select-options ul a:focus {
+    outline: none;
+}
+
+.select-options .optgroup strong {
+    cursor: default;
+    display: block;
+    width: 100%;
+}
+
+.select-options .optgroup strong em {
+    display: block;
+    padding: 5px;
+    height: 1%;
+}
+
+.select-options .optgroup ul a {
+    padding-left: 20px;
+}
+
+.select-options img {
+    margin: 2px 3px 0 0;
+    float: left;
+    border: 0;
+}
+
+.select-disabled {
+    background-position: 0 -124px;
+    color: #bbb;
+}
+
+.select-disabled .left {
+    background-position: 0 -93px;
+}
+
+.select-disabled .select-opener {
+    background-position: 100% -155px;
+}
+
+.select-focus {
+    background-position: 0 -217px;
+}
+
+.select-focus .left {
+    background-position: 0 -186px;
+}
+
+* {
+    font-size: 100.01%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+    font-size: 9px;
+}
+
+body {
+    margin: 0;
+    color: #000;
+    font-family: 'Exo 2', 'Open Sans', sans-serif;
+    background-image: url('https://www.mobilephonechecker.co.uk/bgr.jpg');
+}
+
+img {
+    border-style: none;
+}
+
+input,
+textarea,
+select {
+    color: #000;
+    vertical-align: middle;
+}
+
+form,
+fieldset {
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+q:before,
+q:after {
+    content: '';
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+textarea:focus,
+select:focus {
+    outline: none;
+}
+
+.wrapper {
+    position: relative;
+    overflow: hidden;
+    padding: 99px 0 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.btn {
+    display: block;
+    margin: 0 0 8px;
+    vertical-align: top;
+    width: 111px;
+    padding: 7px 5px 8px;
+    background: #74cb45;
+    color: #fff!important;
+    font: 1.5em/1.2em 'Exo 2', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+    letter-spacing: 1px;
+}
+
+.btn:hover {
+    text-decoration: none;
+    background: #97d874;
+}
+
+header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    border-bottom: 1px solid #a6a6a6;
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.25);
+    background: #fff;
+    z-index: 3;
+}
+
+header .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 7px 0 7px;
+}
+
+header .container:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+header .logo {
+    float: left;
+    text-indent: -9999px;
+    overflow: hidden;
+    background: url(/images/logo-large-trans.png) no-repeat;
+    width: 473px;
+    height: 45px;
+    margin: 0 0 1px;
+}
+
+header .logo a {
+    display: block;
+    height: 100%;
+}
+
+header .btn-mobile,
+header .btn-search {
+    display: none;
+}
+
+.main-nav {
+    clear: both;
+}
+
+.main-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 1.4em;
+    line-height: 1.125em;
+    display: inline-block;
+    margin-top: 4px;
+}
+
+.main-nav>ul>li {
+    display: inline-table;
+    padding: 10px 12px;
+    position: relative;
+}
+
+.main-nav>ul>li:first-child {
+    padding-left: 0;
+}
+
+.main-nav>ul>li.noleft {
+    border-left: 0;
+}
+
+.main-nav>ul>li.active {
+    background-color: #74cb45;
+    border-radius: 4px;
+}
+
+.main-nav>ul>li.active>a {
+    color: white;
+}
+
+.main-nav>ul>li:hover ul {
+    display: block;
+}
+
+.main-nav ul a {
+    color: #363636;
+    display: block;
+    position: relative;
+}
+
+.main-nav ul a:hover,
+.main-nav>ul>li:hover>a {
+    text-decoration: none;
+    color: #387ede;
+}
+
+.main-nav ul ul {
+    z-index: 10;
+    display: none;
+    position: absolute;
+    top: 25px;
+    left: 0;
+    min-width: 150px;
+    max-width: 150px;
+    font-size: 1em;
+    line-height: 1.125em;
+    background: #fff;
+    margin: 0;
+    padding: 5px 18px;
+    border: 1px solid #A6A6A6;
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.25);
+}
+
+.main-nav ul ul li {
+    margin: 6px 0;
+}
+
+.main-nav .has-child .caret {
+    position: absolute;
+    left: 50%;
+    margin-left: -2px;
+    top: 16px;
+    border: solid transparent;
+    border-width: 6px 4px;
+    border-top-color: #363636;
+    z-index: 2;
+}
+
+.main-nav .has-child.active .caret {
+    border-top-color: #fff;
+}
+
+#star img {
+    margin-top: 3px;
+}
+
+.info-block {
+    background-color: #387EDE;
+}
+
+.info-block .container {
+    overflow: hidden;
+    padding: 10px 0 0;
+    position: relative;
+}
+
+.info-block .box {
+    overflow: hidden;
+    color: #fff;
+    font-size: 1.6em;
+}
+
+.info-block .box p {
+    margin: 0 0 14px;
+    line-height: 1.54em;
+}
+
+.info-block .box a {
+    text-decoration: none;
+    color: white;
+}
+
+.info-block h2,
+.info-block h1 {
+    font: 2.025em/1em 'Exo 2', sans-serif;
+    margin: 0 0 22px;
+    font-weight: bold;
+}
+
+.info-block .visual {
+    min-height: 225px;
+    float: right;
+    width: 460px;
+    margin-top: -16px;
+}
+
+.info-block .visual img {
+    position: absolute;
+    top: 0px;
+}
+
+.info-block .visual .img-02 {
+    right: 3px;
+    top: 10px;
+}
+
+.info-block .visual .img-01 {
+    right: 195px;
+    z-index: 2;
+}
+
+.more-info {}
+
+.search-form {
+    padding: 8px 0;
+}
+
+.search-form .input {
+    overflow: hidden;
+    border-radius: 4px;
+    background: #fff;
+    position: relative;
+    float: left;
+    width: 250px;
+}
+
+.search-form.header .input {
+    border: 1px solid #c1c1c1;
+}
+
+.search-form.header {
+    padding: 0;
+    float: left;
+    margin-left: 35px;
+}
+
+.search-form.header .input .text {
+    font: 1.525em/1.73em 'Exo 2', sans-serif;
+}
+
+.search-form .input .text {
+    border: 0;
+    margin: 0;
+    padding: 10px 11px 11px;
+    font: 1.125em/1.33em 'Exo 2', sans-serif;
+    height: 24px;
+    color: #b6b6b6;
+}
+
+.search-form .btn-submit {
+    float: right;
+    border: 0;
+    margin: 2px 0 0 17px;
+    padding: 0;
+    background: #74cb45 url(https://images2.mobilephonechecker.co.uk/images/ico-01.png) no-repeat 41px 12px;
+    border-radius: 4px;
+    width: 103px;
+    height: 45px;
+    position: relative;
+    cursor: pointer;
+}
+
+.search-form .btn-submit:hover {
+    background: #97d874 url(https://images2.mobilephonechecker.co.uk/images/ico-01.png) no-repeat 41px 12px;
+}
+
+.ui-autocomplete {
+    font-size: 1.8em;
+    line-height: 1.111em;
+    list-style: none;
+    margin: 5px 0 0;
+    padding: 0 11px;
+    background: #fff;
+    border-radius: 4px;
+    width: 338px;
+    color: #B6B6B6;
+    z-index: 20;
+    border: 2px solid #74cb45;
+}
+
+.ui-autocomplete li {
+    padding: 2px 0;
+}
+
+.ui-autocomplete li a {
+    display: block;
+    padding: 4px 0;
+}
+
+.ui-autocomplete li a:hover {
+    background-color: #c9ffab;
+}
+
+.ui-autocomplete-category {
+    font-weight: bold;
+}
+
+.ui-helper-hidden-accessible {
+    display: none;
+}
+
+.info-block .breadcrumbs {
+    list-style: none;
+    margin: -2px 0 4px -21px;
+    padding: 0;
+    overflow: hidden;
+    clear: both;
+    font-size: 1.1em;
+    line-height: 1.091em;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.info-block .breadcrumbs li {
+    float: left;
+    background: url(https://images2.mobilephonechecker.co.uk/images/ico-03.png) no-repeat 8px 2px;
+    padding: 0 0 0 21px;
+}
+
+.info-block .breadcrumbs li:first-child {
+    background: none;
+}
+
+.info-block .breadcrumbs a {
+    color: #fff;
+}
+
+.info-block .visual .img-03 {
+    right: 5px;
+    z-index: 2;
+}
+
+.info-block .visual .img-03a {
+    right: 5px;
+    z-index: 2;
+    top: 60px;
+}
+
+.info-block .visual .img-04 {
+    right: 142px;
+}
+
+.info-block .visual .img-04a {
+    right: 142px;
+    top: 20px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.info-block .bottom {
+    overflow: hidden;
+    padding: 0 0 8px;
+}
+
+.info-block .bottom .holder {
+    float: left;
+}
+
+.info-block .bottom .btn {
+    float: right;
+    width: 148px;
+    font-size: 0.937em;
+    line-height: 1.2em;
+}
+
+.info-block .bottom img {
+    vertical-align: top;
+}
+
+.info-area {
+    padding: 13px 10px 49px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.info-area h2,
+.info-section h2,
+.info-area h1,
+.info-section h1 {
+    font: 2.6em/1.111em 'Exo 2', sans-serif;
+    color: #387ede;
+    margin: 0 0 22px;
+}
+
+h2.news {
+    margin-bottom: 0;
+}
+
+.text {
+    padding-top: 0;
+}
+
+.text p,
+.text li {
+    font-size: 1.6em;
+    line-height: 1.6em;
+    color: #333;
+}
+
+.text p {
+    max-width: 650px;
+}
+
+p.news,
+div.news p {
+    max-width: none;
+}
+
+.text h2 {
+    margin: 32px 0 0.8125em;
+    clear: both;
+}
+
+.text h1 {
+    margin: 32px 0 0.8125em;
+    clear: both;
+}
+
+.text h3 {
+    font-size: 2em;
+    letter-spacing: 0.1em;
+    line-height: 2.6em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+h3.news {
+    text-transform: none;
+}
+
+.text a {
+    color: #387EDE;
+}
+
+.products {
+    list-style: none;
+    margin: 0 -1px;
+    padding: 0;
+}
+
+.products .holder {
+    float: left;
+    width: 103px;
+    text-align: center;
+}
+
+.products .frame {
+    overflow: hidden;
+    padding: 8px 0px 0 7px;
+}
+
+.products img {
+    vertical-align: top;
+}
+
+.products li {
+    display: inline-block;
+    vertical-align: top;
+    width: 233px;
+    padding: 0 0 0 11px;
+    margin: 0 0 37px;
+    border-left: 0px solid #e2e2e2;
+}
+
+.smartwatch.products li {
+    width: 300px;
+}
+
+.smartwatch.products .holder {
+    width: 140px;
+}
+
+.hidemobile.box {
+    margin-top: 40px;
+}
+
+.retailerproducts li {
+    display: inline-block;
+    vertical-align: top;
+    width: 90px;
+    padding: 0 0 0 33px;
+    margin: 0 0 20px;
+    border-left: 0px solid #e2e2e2;
+    text-align: center;
+}
+
+.products h3 {
+    font: 1.8em/1.444em 'Exo 2', sans-serif;
+    color: #555;
+    margin: 0 0 13px;
+    min-height: 52px;
+}
+
+.products h3 a {
+    color: #387ede;
+}
+
+.information {
+    background: #74cb45;
+    margin: 0 0 0px;
+}
+
+.information .container {
+    padding: 10px 0 14px;
+    position: relative;
+}
+
+.information .advanced-btn {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    margin-left: -84px;
+    width: 159px;
+    height: 13px;
+    background: url(https://images2.mobilephonechecker.co.uk/images/bg-advanced.png) no-repeat;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0 5px 7px;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+}
+
+.information .advanced-btn:hover {
+    text-decoration: none;
+}
+
+.information .advanced-btn .caret {
+    background: url(https://images2.mobilephonechecker.co.uk/images/ico-06.png) no-repeat;
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 2px 0 0 15px;
+}
+
+.information .advanced-btn.opened .caret {
+    background: url(https://images2.mobilephonechecker.co.uk/images/ico-06a.png) no-repeat;
+}
+
+.information .advanced-area {
+    color: #fff;
+    margin-top: 15px;
+}
+
+.information .advanced-area p {
+    margin: 0;
+}
+
+.info-form {
+    margin: 0 0 0 -30px;
+}
+
+.info-form .frame {
+    float: left;
+    margin: 0 0 0 30px;
+}
+
+.info-form-simfree .frame {
+    margin-left: 370px;
+}
+
+.info-form .smallframe {
+    clear: both;
+    margin: 10px 0 0 0;
+    padding-top: 10px;
+}
+
+.info-form label,
+.info-form h3 {
+    display: block;
+    font: 1.7em/1.083em 'Exo 2', sans-serif;
+    color: #fff;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+    margin: 0 0 9px;
+}
+
+.sel-01 {
+    width: 326px;
+}
+
+.sel-02 {
+    width: 118px;
+}
+
+.sel-03 {
+    width: 211px;
+}
+
+.info-form .radio-area {
+    float: right;
+}
+
+.info-form .row {
+    overflow: hidden;
+    margin: 0 -17px 5px 0;
+}
+
+.info-form .contract {
+    margin-top: 10px;
+}
+
+.info-form .radio-area .holder {
+    float: left;
+    width: 92px;
+    margin: 0 17px 0 0;
+}
+
+.info-form .radio-area-payg .holder {
+    width: 166px;
+}
+
+.info-form .radio-area-sim-only .holder {
+    width: 146px;
+}
+
+.advanced-area .radio-area .holder {
+    width: 166px;
+}
+
+.advanced-area .radio-area-network .holder {
+    width: 126px;
+}
+
+.info-form .radio-area div label {
+    overflow: hidden;
+    font: 1.6em/1.225em 'Exo 2', sans-serif;
+    margin: 0;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.info-form .radio-area h3 {
+    margin: 0 0 4px;
+}
+
+.info-section {
+    padding: 20px 10px 59px;
+    background-color: white;
+}
+
+.info-table {
+    border-collapse: collapse;
+    border: 0;
+    width: 100%;
+}
+
+.container .info-table th {
+    padding: 17px 5px 4px;
+    font-size: 1.5em;
+    line-height: 1.1818em;
+    text-transform: uppercase;
+    color: #555;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.info-table td {
+    padding: 23px 5px;
+    text-align: center;
+    font: 2.2em/1.4909em 'Exo 2', sans-serif;
+    color: #387ede;
+    vertical-align: middle;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+tr.more-info td {
+    padding: 13px 5px;
+}
+
+.info-table .cell-00 span {
+    display: block;
+    font: 0.5em/1.545em 'Exo 2', sans-serif;
+    text-transform: uppercase;
+}
+
+.info-table .cell-01 {
+    width: 12%;
+}
+
+.info-table img {
+    vertical-align: top;
+    max-height: 88px;
+}
+
+.info-table .cell-02 {
+    width: 13%;
+}
+
+.info-table .cell-03 {
+    width: 13%;
+}
+
+.info-table .cell-04 {
+    width: 13%;
+}
+
+.info-table .cell-05 {
+    width: 13%;
+}
+
+.info-table .cell-05 span {
+    display: block;
+    font: 0.5em/1.545em 'Exo 2', sans-serif;
+    text-transform: uppercase;
+}
+
+.info-table .cell-06 {
+    width: 17.5%;
+    color: #74cb45;
+}
+
+.info-table .cell-07 {
+    width: 18.5%;
+    background: none;
+}
+
+.info-table .cell-07 span {
+    font-size: 0.5em;
+    display: block;
+    margin-top: -7px;
+    color: #333;
+}
+
+@media screen and (max-width: 1015px) {
+    .info-table .cell-07 span {
+        font-size: 0.7em;
+        line-height: 1.3em;
+    }
+}
+
+.info-table .cell-07 a {
+    margin-top: 7px;
+}
+
+.info-table .cell-07 .btn {
+    width: 80%;
+}
+
+.info-table .cell-07 strong {
+    font-size: 1.18em;
+    margin-top: 7px;
+}
+
+.info-table .btn {
+    font-size: 0.782em;
+    line-height: 1.2em;
+    width: 124px;
+    margin: 0 auto;
+}
+
+.info-table .btn-info {
+    display: inline-block;
+    vertical-align: top;
+    width: 124px;
+    padding: 4px 5px 5px;
+    background: #fff;
+    color: #387ede;
+    font: 0.502em/1.2em 'Exo 2', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    letter-spacing: 1px;
+    border: 1px solid #387ede;
+    margin-top: 20px;
+}
+
+.info-table .btn-info:hover {
+    text-decoration: none;
+    background: #387ede;
+    color: #fff;
+}
+
+.info-table .row-01 {
+    display: none;
+}
+
+.info-table tr.white-bottom td {
+    border-bottom: 1px solid white;
+}
+
+.info-table .row-02 {
+    display: none;
+}
+
+.info-table .row-02 td {
+    color: #555;
+    padding: 21px 5px 39px;
+    background-position: 100% 5px;
+}
+
+.info-table .row-03 td {
+    padding: 18px 5px 10px;
+    background-position: 100% 50%;
+}
+
+@media screen and (min-width: 1015px) {
+    .info-table .mobile-txt,
+    .info-table .cell-06 span {
+        display: none!important;
+    }
+}
+
+.info-section .pager-holder {
+    text-align: center;
+}
+
+.info-section .pager {
+    display: inline-block;
+    vertical-align: top;
+    list-style: none;
+    overflow: hidden;
+    font-size: 1.6em;
+    line-height: 1.125em;
+    color: #555;
+    margin: 0 auto;
+    padding: 15px 0 30px;
+}
+
+.info-section .pager li {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 1em!important;
+}
+
+.info-section .pager a {
+    color: #555;
+}
+
+.info-section .pager .prev {
+    float: left;
+    margin: 0;
+    border: 1px solid white;
+}
+
+.info-section .pager .prev a {
+    background: url(https://images2.mobilephonechecker.co.uk/images/ico-10.png) no-repeat 0 7px;
+    padding: 0 11px;
+}
+
+.info-section .pager .next {
+    margin: 0;
+    border: 1px solid white;
+}
+
+.info-section .pager .next a {
+    background: url(https://images2.mobilephonechecker.co.uk/images/ico-11.png) no-repeat 100% 7px;
+    padding: 0 11px;
+}
+
+.info-section .pager li {
+    margin: 0 4px;
+    padding: 0.5em 1em;
+    border: 1px solid #c6c6c6;
+}
+
+.info-section .pager .active {
+    background-color: #e7e7e7;
+    color: #387ede;
+    font-weight: bold;
+}
+
+.info-section .pager .mobile {
+    display: none;
+}
+
+.info-section .title {
+    font: 'Exo 2', sans-serif;
+}
+
+.info-section .box {
+    overflow: hidden;
+}
+
+.info-form .frame.payg-sim-minutes {
+    margin-left: 200px;
+}
+
+.info-form .frame.payg-sim-texts {
+    margin-left: 50px;
+}
+
+.info-form .frame.payg-sim-data {
+    margin-left: 50px;
+}
+
+.info-form .frame.upgradeframe {
+    margin-left: 120px;
+}
+
+.info-form .frame.upgradeframe2 {
+    margin-left: 140px;
+}
+
+footer {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.6em;
+    line-height: 1.125em;
+    color: #555;
+    padding: 10px 10px 31px;
+    border-top: 1px solid #74cb45;
+}
+
+footer .add-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 5px;
+}
+
+footer .add-nav li {
+    display: inline-block;
+    vertical-align: top;
+    background: url(https://images2.mobilephonechecker.co.uk/images/sep-add-nav.png) no-repeat 0 3px;
+    padding: 0 8px 0 14px;
+}
+
+footer .add-nav li:first-child {
+    background: none;
+}
+
+footer .add-nav a {
+    color: #387ede;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: #555;
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 1010px) {
+    .wordpress-frame {
+        margin-left: 150px!important;
+    }
+}
+
+.mm-menu {
+    display: none;
+}
+
+@media screen and (max-width: 1015px) {
+    .tooltip {
+        display: none;
+    }
+    .wrapper {
+        width: auto;
+        background-color: white;
+    }
+    .mm-menu {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 1015px) {
+    .search-form.header {
+        float: none;
+        margin-top: 40px;
+    }
+    .search-form .input {
+        float: right;
+        width: auto;
+    }
+    .search-form.header {
+        margin-left: 0;
+    }
+    .search-form .input .text {
+        width: auto;
+    }
+    .info-form-mobilebroadband {
+        margin-left: 0px!important
+    }
+    .payghandset {
+        margin-left: 0!important
+    }
+    .info-form-datasims {
+        margin-left: 0px!important
+    }
+    .bottomtext {
+        clear: both;
+        padding-top: 5px;
+        text-align: center;
+        margin-left: auto;
+    }
+    .tooltip {
+        display: none;
+    }
+    .wrapper {
+        width: auto;
+    }
+    .info-form .smallframe {
+        display: none;
+    }
+    .info-form .hideframe {
+        display: none;
+    }
+    .hidemobile {
+        display: none;
+    }
+    header .main-nav {
+        display: none;
+    }
+    .wrapper {
+        padding: 38px 0 0;
+    }
+    header .container {
+        padding: 7px 10px 10px;
+        position: relative;
+    }
+    header .logo {
+        position: absolute;
+        left: 50%;
+        top: 11px;
+        margin-left: -83px;
+        width: 200px;
+        height: 17px;
+        background-size: contain;
+    }
+    header .btn-mobile {
+        display: block;
+        float: left;
+        background: url(https://images2.mobilephonechecker.co.uk/images/bg-btn-mobile.png) no-repeat;
+        width: 18px;
+        height: 14px;
+        text-indent: -9999px;
+        overflow: hidden;
+        margin: 6px 0 0;
+    }
+    header .btn-search {
+        display: block;
+        float: right;
+        background: url(https://images2.mobilephonechecker.co.uk/images/ico-02.png) no-repeat;
+        width: 19px;
+        height: 19px;
+        text-indent: -9999px;
+        overflow: hidden;
+        margin: 3px 0 0;
+    }
+    .main-nav {
+        background: #fff;
+        text-transform: uppercase;
+        float: none;
+        position: absolute;
+    }
+    .main-nav.mm-menu ul {
+        font: 1.5em/1.066em 'Exo 2', sans-serif;
+        font-weight: bold;
+        padding: 0;
+    }
+    .main-nav ul a {
+        color: #387ede;
+        padding: 0;
+        line-height: 1.066em;
+    }
+    .main-nav>ul>li {
+        float: none;
+        margin: 0;
+        padding: 14px 15px;
+        border: 0;
+        width: 100%;
+    }
+    .main-nav>ul>li:hover {
+        padding-bottom: 14px;
+        margin-bottom: 0px;
+    }
+    html.mm-opened .mm-page {
+        box-shadow: -1px 0 1px rgba(0, 0, 0, 0.25);
+    }
+    .mm-list>li:not(.mm-subtitle):not(.mm-label):not(.mm-noresults):after {
+        left: 0;
+        right: 0;
+        border-color: #e2e2e2;
+        margin: 0;
+        position: absolute;
+    }
+    .mm-list a.mm-subopen {
+        width: auto;
+        left: 0;
+        bottom: 0;
+        z-index: 3;
+    }
+    .mm-menu.mm-vertical .mm-list>li.mm-opened>a.mm-subopen {
+        height: 44px;
+    }
+    .main-nav.mm-menu ul ul {
+        position: static;
+        width: auto;
+        max-width: 100%;
+        font-size: 1em;
+    }
+    .main-nav ul ul li {
+        margin: 0;
+        padding: 5px 0;
+    }
+    .mm-menu .mm-list>li.mm-selected>span,
+    .mm-menu .mm-list>li.mm-selected>a:not(.mm-subopen) {
+        background: none;
+    }
+    .info-block .container {
+        padding: 17px 10px 6px;
+    }
+    .info-block .visual,
+    .search-form,
+    .info-block .hidden {
+        display: none;
+    }
+    .info-block .equal-height {
+        min-height: 1px!important;
+    }
+    .info-block h2,
+    .info-block h1 {
+        font-size: 1.8181em;
+        line-height: 1em;
+        margin: 0 0 9px;
+    }
+    .info-block .box p {
+        margin: 0 0 14px;
+    }
+    .second-page .info-block {
+        display: none;
+    }
+    .info-area {
+        padding: 16px 10px 12px;
+    }
+    .info-area h2 {
+        font-size: 2em;
+        line-height: 1.1em;
+        text-align: center;
+        margin: 10px 0 22px;
+    }
+    .info-area h1 {
+        font-size: 2em;
+        line-height: 1.1em;
+        text-align: center;
+        margin: 0 0 22px;
+    }
+    .products {
+        margin: 0 -1px;
+    }
+    .products li {
+        width: 49%;
+        padding: 0;
+        text-align: center;
+        margin: 0 0 38px;
+    }
+    .products .holder {
+        float: none;
+        margin: 0 auto 7px;
+    }
+    .products h3 {
+        font-size: 1.3em;
+        line-height: 1.0769em;
+        min-height: 1px;
+        margin: 0 0 10px;
+    }
+    .products .btn {
+        font-size: 1.5em;
+        line-height: 1.0666em;
+        width: auto;
+        display: block;
+        padding: 7px 5px;
+    }
+    .products .frame {
+        padding: 0 20px;
+    }
+    .products img {
+        height: 130px;
+    }
+    .information {
+        background: url(https://images2.mobilephonechecker.co.uk/images/bg-info-block.jpg);
+        margin: 0 0 19px;
+    }
+    .information .container {
+        padding: 13px 10px 5px;
+    }
+    .information .advanced-btn {
+        display: none;
+    }
+    .info-form {
+        margin: 0;
+    }
+    .info-form .frame {
+        float: none;
+        margin: 0 0 13px;
+    }
+    .fourglabel {
+        padding-top: 3px;
+    }
+    .info-form .radio-area {
+        float: none;
+        margin: 0;
+    }
+    .info-form .row {
+        margin: 0 0 11px;
+    }
+    .info-form .radio-area .holder {
+        width: 50%;
+        margin: 0;
+    }
+    .info-form .radio-area-payg .holder {
+        width: 33%;
+    }
+    .info-form .frame.payg-sim-minutes {
+        margin-left: auto;
+    }
+    .info-form .frame.payg-sim-texts {
+        margin-left: auto;
+    }
+    .info-form .frame.payg-sim-data {
+        margin-left: auto;
+    }
+    .info-form .frame.upgradeframe {
+        margin-left: auto;
+    }
+    .info-form .frame.upgradeframe2 {
+        margin-left: auto;
+    }
+    .select-area {
+        width: auto!important;
+        float: none;
+        height: 30px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .select-area .center {
+        padding: 6px 35px 8px 10px;
+        border-radius: 3px;
+    }
+    .select-area .select-opener {
+        height: 30px;
+        width: 30px;
+        background-position: 12px 12px;
+    }
+    .select-options .drop-holder {
+        font-size: 1.4em;
+        line-height: 1.1428em;
+        margin: 2px 0 0;
+    }
+    .rad-area {
+        margin: 2px 9px 0 0;
+        width: 15px;
+        height: 15px;
+    }
+    .rad-area span {
+        width: 15px;
+        height: 15px;
+    }
+    .info-form .radio-area label {
+        font-size: 1.4em;
+        line-height: 1.1428em;
+    }
+    .info-form .radio-area h3 {
+        margin: 0 0 8px;
+    }
+    .info-section {
+        padding: 0 3px 30px;
+    }
+    .info-table {
+        width: 97%;
+    }
+    .info-table .btn {
+        width: auto;
+    }
+    .info-table .btn-info {
+        display: none;
+    }
+    .fourg2 {
+        font-size: 0.782em;
+    }
+    .container .info-table .row-03 td {
+        border-bottom: 1px solid #E2E2E2;
+        padding: 22px 0px 15px;
+        background-position: 0 11px;
+    }
+    .container .info-table th {
+        font-size: 0.7em;
+        line-height: 1.1428em;
+        padding: 17px 0px 4px;
+    }
+    .container .info-table td {
+        font-size: 1.2em;
+        line-height: 1.3769em;
+        background: url(https://images2.mobilephonechecker.co.uk/images/sep-table-mobile.gif) no-repeat 0 15px;
+        padding: 25px 0px 15px;
+        vertical-align: top;
+    }
+    .info-table .mobile-txt {
+        display: block;
+    }
+    .info-table .mobile-txt img {
+        max-width: 60px!important;
+        margin-top: 10px;
+    }
+    .info-table .retailer-txt {
+        max-width: 60px!important;
+    }
+    .info-table .cell-06 span {
+        display: block;
+        font: 0.4615em/1.545em 'Exo 2', sans-serif;
+        text-transform: uppercase;
+        color: #3379d9;
+    }
+    .container .info-table .cell-07 {
+        background: none;
+    }
+    .info-table .cell-05 span {
+        font-size: 0.6615em;
+        line-height: 1.333em;
+        font-weight: bold;
+    }
+    .info-table .cell-02,
+    .info-table .cell-03,
+    .info-table .cell-04,
+    .info-table .cell-05 {
+        width: 19%;
+    }
+    .info-table .cell-06 {
+        width: 19%;
+        background: none;
+    }
+    .container .info-table td {
+        background: none;
+    }
+    .container .info-table img {
+        max-width: 70px;
+        max-height: 88px;
+    }
+    .info-table .cell-07 {
+        width: 5%;
+    }
+    .info-section .pager {
+        display: block;
+        width: auto;
+        padding: 15px 0 0;
+        text-align: center;
+    }
+    .info-section .pager .prev,
+    .info-section .pager .next {
+        display: block;
+        padding: 0;
+    }
+    .info-section .pager .prev a,
+    .info-section .pager .next a {
+        display: block;
+        background: #74cb45;
+        color: #fff;
+        font: 0.9375em/1.0666em 'Exo 2', sans-serif;
+        font-weight: bold;
+        width: 100px;
+        padding: 7px 5px 7px;
+        border-radius: 2px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .info-section .pager .next {
+        float: right;
+    }
+    .info-section .pager .prev a:hover,
+    .info-section .pager .next a:hover {
+        background: #97d874;
+    }
+    .info-section .pager a:hover {
+        text-decoration: none;
+    }
+    .info-section .pager .prev .txt {
+        display: none;
+    }
+    .info-section .pager .prev .mobile {
+        display: block;
+    }
+    .info-section .pager li {
+        display: none;
+    }
+    .info-section .pager .active {
+        display: inline-block;
+        vertical-align: top;
+        font: 1.125em/1.0555em 'Exo 2', sans-serif;
+    }
+    .info-section .pager .holder {
+        padding: 7px 0 0;
+    }
+    .info-section .box {
+        display: none;
+    }
+    footer {
+        font-size: 1.1em;
+        line-height: 1.091em;
+        padding-left: 4px;
+        padding-right: 4px;
+        text-align: left;
+    }
+    footer .add-nav {
+        font: 1.36em/1.066em 'Exo 2', sans-serif;
+        font-weight: bold;
+        border-bottom: 1px solid #e2e2e2;
+        text-transform: uppercase;
+        padding: 0;
+        margin: 0 0 15px;
+    }
+    footer .add-nav li {
+        display: block;
+        background: none;
+        border-top: 1px solid #e2e2e2;
+        padding: 14px 15px;
+    }
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+    header .btn-mobile {
+        background-image: url('../images/bg-btn-mobile@2x.png');
+        background-size: 18px 14px;
+    }
+    header .btn-search {
+        background-image: url('../images/ico-02@2x.png');
+        background-size: 19px 19px;
+    }
+}
+
+.qtip {
+    position: absolute;
+    left: -28000px;
+    top: -28000px;
+    display: none;
+    max-width: 340px;
+    min-width: 50px;
+    font-size: 1.286em;
+    line-height: 1.225em;
+    direction: ltr;
+    box-shadow: none;
+    padding: 0;
+}
+
+.qtip-content {
+    position: relative;
+    padding: 5px 9px;
+    overflow: hidden;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.qtip-titlebar {
+    position: relative;
+    padding: 5px 35px 5px 10px;
+    overflow: hidden;
+    border-width: 0 0 1px;
+    font-weight: bold;
+}
+
+.qtip-titlebar+.qtip-content {
+    border-top-width: 0!important;
+}
+
+.qtip-close {
+    position: absolute;
+    right: -9px;
+    top: -9px;
+    cursor: pointer;
+    outline: medium none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+}
+
+.qtip-titlebar .qtip-close {
+    right: 4px;
+    top: 50%;
+    margin-top: -9px;
+}
+
+* html .qtip-titlebar .qtip-close {
+    top: 16px;
+}
+
+.qtip-titlebar .ui-icon,
+.qtip-icon .ui-icon {
+    display: block;
+    text-indent: -1000em;
+    direction: ltr;
+}
+
+.qtip-icon,
+.qtip-icon .ui-icon {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.qtip-icon .ui-icon {
+    width: 18px;
+    height: 14px;
+    line-height: 14px;
+    text-align: center;
+    text-indent: 0;
+    font: normal bold 10px/13px Tahoma, sans-serif;
+    color: inherit;
+    background: transparent none no-repeat -100em -100em;
+}
+
+.qtip-focus {}
+
+.qtip-hover {}
+
+.qtip-default {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #74cb45;
+    background-color: #FFFFFF;
+    color: #555;
+}
+
+.qtip-default .qtip-titlebar {
+    background-color: #FFEF93;
+}
+
+.qtip-default .qtip-icon {
+    border-color: #CCC;
+    background: #F1F1F1;
+    color: #777;
+}
+
+.qtip-default .qtip-titlebar .qtip-close {
+    border-color: #AAA;
+    color: #111;
+}
+
+.qtip .qtip-tip {
+    margin: 0 auto;
+    overflow: hidden;
+    z-index: 10;
+}
+
+x:-o-prefocus,
+.qtip .qtip-tip {
+    visibility: hidden;
+}
+
+.qtip .qtip-tip,
+.qtip .qtip-tip .qtip-vml,
+.qtip .qtip-tip canvas {
+    position: absolute;
+    color: #123456;
+    background: transparent;
+    border: 0 dashed transparent;
+}
+
+.qtip .qtip-tip canvas {
+    top: 0;
+    left: 0;
+}
+
+.qtip .qtip-tip .qtip-vml {
+    behavior: url(#default#VML);
+    display: inline-block;
+    visibility: visible;
+}
+
+#qtip-overlay {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#qtip-overlay.blurs {
+    cursor: pointer;
+}
+
+#qtip-overlay div {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+}
+
+.qtipmodal-ie6fix {
+    position: absolute!important;
+}
+
+.bx-wrapper {
+    position: relative;
+    margin: 0 auto 60px;
+    padding: 0;
+    *zoom: 1;
+}
+
+.bx-wrapper img {
+    max-width: 100%;
+    display: block;
+}
+
+.bx-wrapper .bx-viewport {
+    -moz-box-shadow: 0 0 5px #ccc;
+    -webkit-box-shadow: 0 0 5px #ccc;
+    box-shadow: 0 0 5px #ccc;
+    border: 5px solid #fff;
+    left: -5px;
+    background: #fff;
+    -webkit-transform: translatez(0);
+    -moz-transform: translatez(0);
+    -ms-transform: translatez(0);
+    -o-transform: translatez(0);
+    transform: translatez(0);
+}
+
+.bx-wrapper .bx-pager,
+.bx-wrapper .bx-controls-auto {
+    position: absolute;
+    bottom: -30px;
+    width: 100%;
+}
+
+.bx-wrapper .bx-loading {
+    min-height: 50px;
+    background: url(/images/bx_loader.gif) center center no-repeat #fff;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2000;
+}
+
+.bx-wrapper .bx-pager {
+    text-align: center;
+    font-size: .85em;
+    font-family: Arial;
+    font-weight: bold;
+    color: #666;
+    padding-top: 20px;
+}
+
+.bx-wrapper .bx-pager .bx-pager-item,
+.bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+    display: inline-block;
+    *zoom: 1;
+    *display: inline;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+    background: #666;
+    text-indent: -9999px;
+    display: block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    outline: 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+    background: #000;
+}
+
+.bx-wrapper .bx-prev {
+    left: 10px;
+    background: url(/images/controls.png) no-repeat 0 -32px;
+}
+
+.bx-wrapper .bx-next {
+    right: 10px;
+    background: url(/images/controls.png) no-repeat -43px -32px;
+}
+
+.bx-wrapper .bx-prev:hover {
+    background-position: 0 0;
+}
+
+.bx-wrapper .bx-next:hover {
+    background-position: -43px 0;
+}
+
+.bx-wrapper .bx-controls-direction a {
+    position: absolute;
+    top: 50%;
+    margin-top: -16px;
+    outline: 0;
+    width: 32px;
+    height: 32px;
+    text-indent: -9999px;
+    z-index: 9999;
+}
+
+.bx-wrapper .bx-controls-direction a.disabled {
+    display: none;
+}
+
+.bx-wrapper .bx-controls-auto {
+    text-align: center;
+}
+
+.bx-wrapper .bx-controls-auto .bx-start {
+    display: block;
+    text-indent: -9999px;
+    width: 10px;
+    height: 11px;
+    outline: 0;
+    background: url(/images/controls.png) -86px -11px no-repeat;
+    margin: 0 3px;
+}
+
+.bx-wrapper .bx-controls-auto .bx-start:hover,
+.bx-wrapper .bx-controls-auto .bx-start.active {
+    background-position: -86px 0;
+}
+
+.bx-wrapper .bx-controls-auto .bx-stop {
+    display: block;
+    text-indent: -9999px;
+    width: 9px;
+    height: 11px;
+    outline: 0;
+    background: url(/images/controls.png) -86px -44px no-repeat;
+    margin: 0 3px;
+}
+
+.bx-wrapper .bx-controls-auto .bx-stop:hover,
+.bx-wrapper .bx-controls-auto .bx-stop.active {
+    background-position: -86px -33px;
+}
+
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager {
+    text-align: left;
+    width: 80%;
+}
+
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto {
+    right: 0;
+    width: 35px;
+}
+
+.bx-wrapper .bx-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #666\9;
+    background: rgba(80, 80, 80, 0.75);
+    width: 100%;
+}
+
+.bx-wrapper .bx-caption span {
+    color: #fff;
+    font-family: Arial;
+    display: block;
+    font-size: .85em;
+    padding: 10px;
+}
+
+.featherlight #bills-table {
+    margin: 1em auto 1em;
+    font: 4.025em/1em 'Exo 2', sans-serif;
+}
+
+.featherlight #bills-table .header {}
+
+.featherlight #bills-table .results {
+    color: #74cb45;
+    font-weight: bold;
+}
+
+.featherlight #bills table {
+    margin: 1em auto 0;
+    font: 2.025em/1em 'Exo 2', sans-serif;
+}
+
+.featherlight #bills table .btn {
+    font-size: 1.5em;
+}
+
+.featherlight h1 {
+    font: 3.025em/1em 'Exo 2', sans-serif;
+    margin: 0 0 12px;
+    font-weight: bold;
+    color: #387ede;
+    text-align: center;
+}
+
+.featherlight h2 {
+    font: 2.025em/1em 'Exo 2', sans-serif;
+    margin: 0 0 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.featherlight h3 {
+    font: 1.625em/1em 'Exo 2', sans-serif;
+    margin: 0 0 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media all {
+    .featherlight {
+        display: none;
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 6;
+        text-align: center;
+        white-space: nowrap;
+        cursor: pointer;
+        background: #333;
+        background: rgba(0, 0, 0, 0);
+    }
+    .featherlight:last-of-type {
+        background: rgba(0, 0, 0, 0.8);
+    }
+    .featherlight:before {
+        content: '';
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+        margin-right: -0.25em;
+    }
+    .featherlight .featherlight-content {
+        position: relative;
+        text-align: left;
+        vertical-align: middle;
+        display: inline-block;
+        overflow: auto;
+        padding: 25px 25px 0;
+        border-bottom: 25px solid transparent;
+        min-width: 30%;
+        margin-left: 5%;
+        margin-right: 5%;
+        max-height: 98%;
+        background: #fff;
+        cursor: auto;
+        white-space: normal;
+    }
+    .featherlight .featherlight-inner {
+        display: block;
+    }
+    .featherlight .featherlight-close-icon {
+        position: absolute;
+        z-index: 9999;
+        top: 0;
+        right: 0;
+        line-height: 25px;
+        width: 25px;
+        cursor: pointer;
+        text-align: center;
+        font: Arial, sans-serif;
+        background: #fff;
+        background: rgba(255, 255, 255, 0.3);
+        color: #000;
+    }
+    .featherlight .featherlight-image {
+        width: 100%;
+    }
+    .featherlight-iframe .featherlight-content {
+        border-bottom: 0;
+        padding: 0;
+    }
+    .featherlight iframe {
+        border: none;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .featherlight .featherlight-content {
+        margin-left: 10px;
+        margin-right: 10px;
+        max-height: 98%;
+        padding: 10px 10px 0;
+        border-bottom: 10px solid transparent;
+    }
+}
